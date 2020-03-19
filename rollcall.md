@@ -8,3 +8,4 @@ Name, Year, Major
 * Howard Francis, Faculty, Math/Computer Science
 * Marissa Tucker, Senior, Computer Science
 * Cody Johnson, Senior, Computer Science
+* Savanah Ryder, Senior, Computer Science
